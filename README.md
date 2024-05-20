@@ -8,22 +8,26 @@
 
 
 ## About me
-<table width="100%">
+<table width="100" align="center">
   <tr>
-    <td>- ⭐ Front-end lover.</td>
-  </tr>
-  <tr>
-    <td>- 🖌 Specialized in web design languages</td>
-  </tr>
-  <tr>
-    <td>- 📲 Ensuring that my projects look great on any device.</td>
+    <td>
+      <ul>
+        <li>⭐ Front-end lover.</li>
+        <li>🖌 Specialized in web design languages</li>
+        <li>📲 Ensuring that my projects look great on any device.</li>
+      </ul>
+    </td>
+    <td align="center">  
+      <a href="https://github.com/pacomariano28">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacomariano28&layout=donut-vertical&theme=midnight-purple" width="100%" alt="Top Langs">
+      </a>
+    </td>
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacomariano28&layout=donut-vertical&theme=midnight-purple)](https://github.com/pacomariano28)
-
 <br>
-<table>
+
+<table align="center">
   <tr>
   <td width="50%">
     <h3 align="center">Tailwind First Project</h3>
@@ -32,13 +36,17 @@
         <img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind">
       </a>
       <br>
-      <div>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      </div>
+      <table>
+        <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+        <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
+        <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+      </table>
       <br>
-      <small>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</small>
+      <table>
+        <td>
+          <small>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</small>
+        </td>
+      </table>
     </div>
   </td>
 </table>
