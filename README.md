@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello there! I'm FranDev👋</h1>
+  <h1>Hello there! I'm FranDev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <p>Welcome to my Github💻</p>
 </div>
 
@@ -8,10 +8,19 @@
 
 
 ## About me
+<table width="100%">
+  <tr>
+    <td>- ⭐ Front-end lover.</td>
+  </tr>
+  <tr>
+    <td>- 🖌 Specialized in web design languages</td>
+  </tr>
+  <tr>
+    <td>- 📲 Ensuring that my projects look great on any device.</td>
+  </tr>
+</table>
 
-- ⭐ Front-end lover.
-- 🖌 Specialized in web design languages
-- 📲 Ensuring that my projects look great on any device.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacomariano28&layout=donut-vertical&theme=midnight-purple)](https://github.com/pacomariano28)
 
 <br>
 <table>
@@ -29,7 +38,7 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       </div>
       <br>
-      <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
+      <small>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</small>
     </div>
   </td>
 </table>
