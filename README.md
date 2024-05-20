@@ -111,6 +111,17 @@
             <p>This project aims to make you code in C a library of usual functions that you will be able to use for your next projects.</p>
          </div>        
       </td>
+      <td width="50%">
+         <h3 align="center"> - Printf Function - </h3>
+         <div align="center">
+            <a href="https://github.com/pacomariano28/42_printf_frmarian" target="_blank"><img src="https://yt3.googleusercontent.com/jTHz_JED3LJ-gVTRnhnrqs-2rmqwh39CmcDZmAe2ojbD3_jO-UqHf5moNnM0e8bEVRMAwrWsjw=s900-c-k-c0x00ffffff-no-rj" width="250" height="auto" alt="Libft function"></a>
+            <br><br>
+            <p> 
+               <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+            </p>
+            <p>The goal of this project is simple: replicate the printf function.</p>
+         </div>        
+      </td>
    </tr>
 </table>
 
