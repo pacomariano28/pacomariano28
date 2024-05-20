@@ -88,10 +88,10 @@
 <table align="center">
    <tr>
       <td width="50%">
-         <h3 align="center">Tailwind First Project</h3>
+         <h3 align="center"> - Tailwind First Project - </h3>
          <div align="center">
             <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
-            <br>
+            <br><br>
             <p> 
                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
                <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
@@ -101,45 +101,14 @@
          </div>        
       </td>
       <td width="50%">
-         <h3 align="center">Tailwind First Project</h3>
+         <h3 align="center"> - Libft Function - </h3>
          <div align="center">
-            <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
-            <br>
+            <a href="https://github.com/pacomariano28/42_libft_frmarian" target="_blank"><img src="https://yt3.googleusercontent.com/jTHz_JED3LJ-gVTRnhnrqs-2rmqwh39CmcDZmAe2ojbD3_jO-UqHf5moNnM0e8bEVRMAwrWsjw=s900-c-k-c0x00ffffff-no-rj" width="250" height="auto" alt="Libft function"></a>
+            <br><br>
             <p> 
-               <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-               <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-               <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+               <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
             </p>
-            <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
-         </div>        
-      </td>
-   </tr>
-
-   <tr>
-      <td width="50%">
-         <h3 align="center">Tailwind First Project</h3>
-         <div align="center">
-            <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
-            <br>
-            <p> 
-               <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-               <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-               <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-            </p>
-            <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
-         </div>        
-      </td>
-      <td width="50%">
-         <h3 align="center">Tailwind First Project</h3>
-         <div align="center">
-            <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
-            <br>
-            <p> 
-               <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-               <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-               <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-            </p>
-            <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
+            <p>This project aims to make you code in C a library of usual functions that you will be able to use for your next projects.</p>
          </div>        
       </td>
    </tr>
