@@ -14,7 +14,7 @@
   <li>📲 Ensuring that my projects look great on any device.</li>
 </ul>
 
-<br>
+<br><br>
 
 <h2>Skills</h2>
 <table align="center">
@@ -68,6 +68,11 @@
    </td>
    <td></td>
    <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
    <td>
       <a href="https://github.com/pacomariano28">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacomariano28&layout=donut-vertical&theme=midnight-purple" width="100%" alt="Top Langs">
@@ -75,29 +80,70 @@
    </td>
 </table>
 
+<br><br>
+
+<h2>Projects</h2>
+
+<br>
+
 <table align="center">
-  <tr>
-    <td width="50">
-      <h3 align="center">Tailwind First Project</h3>
-      <div align="center">
-        <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank">
-          <img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind">
-        </a>
-        <br>
-        <table>
-          <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-          <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
-          <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-        </table>
-        <br>
-        <table>
-          <td>
-            <small>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</small>
-          </td>
-        </table>
-      </div>
-    </td>
-  </tr>
+   <tr>
+      <td width="50%">
+         <h3 align="center">Tailwind First Project</h3>
+         <div align="center">
+            <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
+            <br>
+            <p> 
+               <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+               <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+               <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            </p>
+            <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
+         </div>        
+      </td>
+      <td width="50%">
+         <h3 align="center">Tailwind First Project</h3>
+         <div align="center">
+            <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
+            <br>
+            <p> 
+               <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+               <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+               <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            </p>
+            <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
+         </div>        
+      </td>
+   </tr>
+
+   <tr>
+      <td width="50%">
+         <h3 align="center">Tailwind First Project</h3>
+         <div align="center">
+            <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
+            <br>
+            <p> 
+               <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+               <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+               <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            </p>
+            <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
+         </div>        
+      </td>
+      <td width="50%">
+         <h3 align="center">Tailwind First Project</h3>
+         <div align="center">
+            <a href="https://github.com/pacomariano28/Primer-proyecto-TailwindCSS" target="_blank"><img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" width="400" alt="Curso básico tailwind"></a>
+            <br>
+            <p> 
+               <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+               <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+               <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            </p>
+            <p>With this small project, I begin my journey of learning the Tailwind CSS framework!!!</p>
+         </div>        
+      </td>
+   </tr>
 </table>
 
 
