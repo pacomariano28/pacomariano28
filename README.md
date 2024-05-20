@@ -72,7 +72,6 @@
    <td></td>
    <td></td>
    <td></td>
-   <td></td>
    <td>
       <a href="https://github.com/pacomariano28">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacomariano28&layout=donut-vertical&theme=midnight-purple" width="100%" alt="Top Langs">
