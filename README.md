@@ -111,6 +111,8 @@
             <p>This project aims to make you code in C a library of usual functions that you will be able to use for your next projects.</p>
          </div>        
       </td>
+   </tr>
+   <tr>
       <td width="50%">
          <h3 align="center"> - Printf Function - </h3>
          <div align="center">
