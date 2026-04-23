@@ -28,14 +28,13 @@ Welcome. This is where I dump the stuff I build while learning how computers act
 - **C++**
 - **TypeScript**
 - **React**
-
 ---
 
 ## 🌐 Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/francisco-mariano-ortiz
-- **Web portfolio:** https://pacoding.vercel.app
-- **Email:** pacomariano28@gmail.com
+- [**LinkedIn**](https://www.linkedin.com/in/francisco-mariano-ortiz)
+- [**Web portfolio**](https://pacoding.vercel.app)
+- **Email**: **pacomariano28@gmail.com
 
 ---
 
@@ -44,7 +43,7 @@ Welcome. This is where I dump the stuff I build while learning how computers act
 ### 42 School Projects
 
 **ft_transcendence**
-A full-stack web project turning 42 student stats into RPG characters.
+The last common-core proyect at 42! A full-stack web project where... Yeah we are working on it! Follow the development here! [transcendence](https://github.com/pacomariano28/Transcendence)
 
 **SoLong**
 A small 2D game made in C using basic graphics and window management.
