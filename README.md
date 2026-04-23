@@ -42,8 +42,8 @@ Welcome. This is where I dump the stuff I build while learning how computers act
 
 ### 42 School Projects
 
-**ft_transcendence**
-The last common-core proyect at 42! A full-stack web project where... Yeah we are working on it! Follow the development here! [transcendence](https://github.com/pacomariano28/Transcendence)
+[**Transcendence**](https://github.com/pacomariano28/Transcendence)
+The last common-core proyect at 42! A full-stack web project where... Yeah we are working on it! Follow the development here! 
 
 ---
 
